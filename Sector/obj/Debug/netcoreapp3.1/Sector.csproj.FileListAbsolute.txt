@@ -1,0 +1,13 @@
+C:\Users\Jefferson\source\repos\Sector\Sector\bin\Debug\netcoreapp3.1\Sector.exe
+C:\Users\Jefferson\source\repos\Sector\Sector\bin\Debug\netcoreapp3.1\Sector.deps.json
+C:\Users\Jefferson\source\repos\Sector\Sector\bin\Debug\netcoreapp3.1\Sector.runtimeconfig.json
+C:\Users\Jefferson\source\repos\Sector\Sector\bin\Debug\netcoreapp3.1\Sector.runtimeconfig.dev.json
+C:\Users\Jefferson\source\repos\Sector\Sector\bin\Debug\netcoreapp3.1\Sector.dll
+C:\Users\Jefferson\source\repos\Sector\Sector\bin\Debug\netcoreapp3.1\Sector.pdb
+C:\Users\Jefferson\source\repos\Sector\Sector\obj\Debug\netcoreapp3.1\Sector.csprojAssemblyReference.cache
+C:\Users\Jefferson\source\repos\Sector\Sector\obj\Debug\netcoreapp3.1\Sector.AssemblyInfoInputs.cache
+C:\Users\Jefferson\source\repos\Sector\Sector\obj\Debug\netcoreapp3.1\Sector.AssemblyInfo.cs
+C:\Users\Jefferson\source\repos\Sector\Sector\obj\Debug\netcoreapp3.1\Sector.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\Sector\Sector\obj\Debug\netcoreapp3.1\Sector.dll
+C:\Users\Jefferson\source\repos\Sector\Sector\obj\Debug\netcoreapp3.1\Sector.pdb
+C:\Users\Jefferson\source\repos\Sector\Sector\obj\Debug\netcoreapp3.1\Sector.genruntimeconfig.cache
